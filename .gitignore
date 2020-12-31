@@ -1,3 +1,4 @@
+.vscode
 venv
 models/coco.names
 models/yolov3.cfg
