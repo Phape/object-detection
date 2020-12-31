@@ -1,0 +1,4 @@
+venv
+models/coco.names
+models/yolov3.cfg
+models/yolov3.weights
